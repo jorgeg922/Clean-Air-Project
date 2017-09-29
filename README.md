@@ -1,5 +1,5 @@
-# Clean-Air-Project
-An arduino project to improve the air quality around you.
+# Enviro-Assist
+An arduino project to gather data of the environment around you.
 
 This project makes use of sound sensor, air quality sensor and temperature sensor along with an Arduino Nano and NodeMCU to provide you with data about the environment around you.
 
